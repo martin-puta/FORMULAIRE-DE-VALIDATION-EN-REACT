@@ -1,0 +1,30 @@
+*{
+  margin: 0%;
+  padding: 0%;
+}
+
+.forms-input {
+  display: flex;
+  flex-direction: column;
+  width: 45%;
+  margin-left: 25%;
+  margin-top: 25px;
+  font-size: 20px;
+  color: rgb(116, 116, 236);
+}
+input{
+  height: 35px;
+  border-radius: 5px;
+  border-color: rgb(179, 179, 255);
+}
+.sign-up-forms{
+  margin-top: 25px;
+  margin-left: 25%;
+  font-size: 30px;
+}
+.btn-validation{
+  margin-top: 5px;
+  width: 85px;
+  height: 30px;
+  color: red;
+}
